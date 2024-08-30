@@ -1,8 +1,14 @@
 @charset "UTF-8";
 
-/* config geral na proxima 
--> Na proxima -> melhorar usando box-sizin: border-box.
+/* 
+                melhorias para os proximos projetos:
+                melhorar usando box-sizin: border-box. (config geral)
+                caso queira mudar a posição do bloco usar (FLOAT)
+                usar transintion
+
 */
+
+/* config geral  */
 
 * {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -48,6 +54,8 @@ section#imagem {
     height: 350px;
     background: black url(..//imagens/imagem.jpg);
     background-size: cover;
+
+    
 }
 
 /* form conteudo */
@@ -62,6 +70,8 @@ section#form {
     background-color: rgb(248, 247, 247);
     border-top-left-radius: 0px;
     border-top-right-radius: 0px ;
+
+    
 }
 
 form h2 {

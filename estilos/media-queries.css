@@ -18,11 +18,11 @@
     /* imagem */
     section#imagem {
         position: absolute;
-        top: 50vh;
+        top: 50%;
         left: 50%;
     
         transform: translate(-140%, -50%);
-        height: 350px;
+        height: 320px;
         width: 250px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -31,11 +31,11 @@
     /* conteudo */
     section#form {
         position: absolute;
-        top: 50vh;
+        top: 50%;
         left: 50%;
 
         transform: translate(-23%, -50%);
-        height: 350px;
+        height: 320px;
         width: 440px;
         border-bottom-left-radius: 0px;
     }
@@ -84,7 +84,7 @@
     section#imagem {
         position: absolute;
         top: 50%;
-        left: 50vw;
+        left: 50%;
     
         transform: translate(10%, -50%);
         height: 360px;
