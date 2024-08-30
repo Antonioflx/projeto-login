@@ -83,7 +83,7 @@
     /* imagem */
     section#imagem {
         position: absolute;
-        top: 50vh;
+        top: 50%;
         left: 50vw;
     
         transform: translate(10%, -50%);
@@ -95,7 +95,7 @@
     /* form conteudo */
     section#form {
         position: absolute;
-        top: 50vh;
+        top: 50%;
         left: 50%;
         transform: translate(-90%, -50%);
         
